@@ -3,7 +3,7 @@
 <hr>
 
 - ✅ **Meeting Link:** <https://tinyurl.com/2s3yxjnr>
-- ✅ **Bitbucket Link:** <https://bitbucket.org/toarnabtrainer/python_maithon_power/src/main/> or <https://tinyurl.com/5anhkwyx>
+- ✅ **Github Link:** <https://github.com/toarnabtrainer/python_maithon_power> or <https://tinyurl.com/veu6wkrb>
 - ✅ **Notepad.pw Link:** <https://notepad.pw/p5Achs3EAtvkDLsbUxOg>
 
 <hr>
