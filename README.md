@@ -1,4 +1,4 @@
-# **Python Training for Maithon Power**
+# **Python Training for Tata Power**
 
 <hr>
 
